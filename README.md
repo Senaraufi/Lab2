@@ -30,6 +30,9 @@ Root_Dir
     |-- index.php
     |-- create.php
     |-- read.php
+    |-- update.php
+    |-- update-single.php
+    |-- delete.php
 ```
 
 ## Setup Instructions
